@@ -19,7 +19,7 @@ body {
     line-height: 1.5;
 }
 
-p {
+p, ul, ol {
     font-size: 1.5rem;
 }
 
@@ -93,4 +93,29 @@ footer {
 blockquote {
     padding: 10vh 10vw;
     font-style: italic;
+}
+
+.detail {
+    background: black;
+    color: white;
+}
+
+.detail main {
+    max-width: 60vw;
+    margin-top: 10vh;
+}
+
+.detail a {
+    color: white;
+}
+
+.detail p {
+    margin-bottom: 1em;
+}
+
+.back {
+    background: white;
+    color: black !important;
+    text-decoration: none;
+    padding: 0.5em;
 }
