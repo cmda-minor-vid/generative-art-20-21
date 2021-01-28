@@ -3,7 +3,7 @@ layout: detail.njk
 title: Code of Conduct
 ---
 
-<a href="/" class="back">← Go back to homepage</a>
+<a href="{{ '/' | url }}" class="back">← Go back to homepage</a>
 
 # Contributor Covenant Code of Conduct
 

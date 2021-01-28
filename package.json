@@ -4,6 +4,7 @@
   "description": "🎓 Generative Art · 2020-2021 · Curriculum and Syllabus",
   "main": "index.js",
   "scripts": {
+    "build:gh": "npx eleventy --pathprefix=generative-art-20-21",
     "build": "npx eleventy",
     "dev": "npx eleventy --serve --quiet"
   },

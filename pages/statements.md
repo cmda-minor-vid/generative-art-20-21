@@ -3,7 +3,7 @@ layout: detail.njk
 title: Statements
 ---
 
-<a href="/" class="back">← Go back to homepage</a>
+<a href="{{ '/' | url }}" class="back">← Go back to homepage</a>
 
 # Statements
 

@@ -3,7 +3,7 @@ layout: detail.njk
 title: Getting Started
 ---
 
-<a href="/" class="back">← Go back to homepage</a>
+<a href="{{ '/' | url }}" class="back">← Go back to homepage</a>
 # Getting Started
 
 👋 **Welcome to Generative Art!** 
