@@ -122,3 +122,8 @@ blockquote {
   text-decoration: none;
   padding: 0.5em;
 }
+
+.detail img {
+  width: 10vw;
+  border-radius: 100%;
+}
