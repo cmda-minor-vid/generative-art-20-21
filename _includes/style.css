@@ -32,7 +32,14 @@ header {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url("https://miro.medium.com/max/2880/1*-egs-meZ08WEmAhlwa481Q.png");
+  background-color: #000000;
+  opacity: 1;
+  background-image: repeating-radial-gradient(
+      circle at 0 0,
+      transparent 0,
+      #000000 20px
+    ),
+    repeating-linear-gradient(#ffffff55, #ffffff);
 }
 
 header h1 {
