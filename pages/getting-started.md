@@ -20,7 +20,7 @@ Take some time to [learn the interface and features of VSCode][learnvs]. If you 
 
 If you haven’t already, **[sign up for GitHub](https://help.github.com/articles/signing-up-for-a-new-github-account/)**. Take some time to set up your [GitHub profile](https://github.com/settings/profile). Include your name, a profile picture, and a URL to your homepage. Teachers will appreciate it if you upload a representing profile and pick a username that closely resembles your real name. Silly pictures are allowed! _You’re also allowed to stay anonymous online for this course by omitting sensitive information._
 
-**Create a repository on your account** called `generative-art`. Add the contents of _this example folder.zip_ to the repository and enable _GitHub pages_. [Here's a video](https://www.youtube.com/watch?v=Tz8uNxjGHM0) from another course that will help you set-up your repository.
+**Create a repository on your account** called `generative-art`. Add the contents of [_this `basic_website.zip` folder_][folder] to the repository and enable _GitHub pages_. [Here's a video](https://www.youtube.com/watch?v=Tz8uNxjGHM0) from another course that will help you set-up your repository.
 
 
 ### Learn
@@ -40,4 +40,5 @@ During this course we'll be using [P5.js][p5] a JavaScript library for creative 
 [learnvs]: https://code.visualstudio.com/learntocode
 [server]: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 [p5]: https://p5js.org
-[issues]: https://github.com/cmda-minor-vid/generative-art-20-21/issues
+[issues]: https://github.com/cmda-minor-vid/generative-art-20-21/issues/new/choose
+[folder]: https://github.com/cmda-minor-vid/generative-art-20-21/raw/main/examples/basic_website.zip
