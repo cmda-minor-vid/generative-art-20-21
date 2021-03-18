@@ -1,4 +1,5 @@
-# ![Web Animationn - Course 2018-2019][#]
+# ![Generative Art - Course 2020-2021](/github-banner.png)
+
 ## Table of Contents
 
 *   [Synopsis](#synopsis)

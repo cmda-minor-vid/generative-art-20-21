@@ -8,6 +8,9 @@ title: Resources
 # Resources
 
 * Read more about Generative Art [on Wikipedia](https://en.wikipedia.org/wiki/Generative_art)
+* Read more about Algorithmic Art [on Wikipedia](https://en.wikipedia.org/wiki/Algorithmic_art)
+* Read more about Creative Coding [on Wikipedia](https://en.wikipedia.org/wiki/Creative_coding)
+* Read more about Computer Art [on Wikipedia](https://en.wikipedia.org/wiki/Computer_art)
 * Read more about the Processing (programming language) [on Wikipedia](https://en.wikipedia.org/wiki/Processing_(programming_language))
 
 ## Books
@@ -40,6 +43,10 @@ title: Resources
 * [Tim Holman](https://tholman.com)
 * [Frederick Vanhoutte](https://twitter.com/wblut)
 * [Dave Whyte](http://beesandbombs.com)
+* [Mark J. Stock](http://markjstock.com)
+* [Anders Hoff](https://inconvergent.net)
+* [Katharina Brunner](https://katharinabrunner.de)
+* [Jon McCormack](https://jonmccormack.info)
 
 # Inspiration
 
