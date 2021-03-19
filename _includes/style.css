@@ -32,14 +32,10 @@ header {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #000000;
-  opacity: 1;
-  background-image: repeating-radial-gradient(
-      circle at 0 0,
-      transparent 0,
-      #000000 20px
-    ),
-    repeating-linear-gradient(#ffffff55, #ffffff);
+background-color: #ffffff;
+opacity: 1;
+background-image: radial-gradient(#000000 1.35px, #ffffff 1.35px);
+background-size: 27px 27px;
 }
 
 header h1 {
@@ -147,4 +143,8 @@ td {
 
 table {
   margin-bottom: 1em;
+}
+
+article:nth-of-type(4) {
+  opacity: 0.6;
 }
