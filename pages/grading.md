@@ -22,6 +22,7 @@ _Make sure you hand-in your work in the assignments slot on Brightspace._
 
 * A `link to your GitHub repository`
 * A `.zip file` of your code (for archive purposes)
+* A link to your `presentation video` showcasing the end result
 
 ## Criteria
 
