@@ -16,12 +16,22 @@ You'll be graded by 4 topics: creativity, complexity, interactivity & generativi
 * **Interactivity:** how does the artwork respond to user input?
 * **Generativity:** how generative (randomness) is the artwork?
 
+## Hand-in
+
+_Make sure you hand-in your work in the assignments slot on Brightspace._
+
+* A `link to your GitHub repository`
+* A `.zip file` of your code (for archive purposes)
+
 ## Criteria
 
 * The artwork works in your `browser` of choice (safari, firefox, chrome etc.)
 * The `code` of the artwork is available on GitHub
 * The project is documented (with sources) in a `readme.md` on GitHub
 * A `live version` is deployed on GitHub pages
+
+
+
 
 ## Rubric
 
