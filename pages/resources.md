@@ -33,6 +33,14 @@ title: Resources
 * [Code! Programming with p5.js by Daniel Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
 * [Learning Processing by Daniel Shiffman](https://www.youtube.com/c/TheCodingTrain/playlists?view=50&sort=dd&shelf_id=10)
 * [The Nature of Code by Daniel Shiffman](https://www.youtube.com/c/TheCodingTrain/playlists?view=50&sort=dd&shelf_id=9)
+* [CodeCademy Learn P5.js](https://www.codecademy.com/learn/learn-p5js)
+
+## Talks
+
+* [Generative Machines with Matt DesLauriers](https://www.youtube.com/watch?v=8Uo6zFwSO78)
+* [Creative Coding in p5.js - GitHub Satellite 2020](https://www.youtube.com/watch?v=sRLWIAPaiRI)
+* [Creative Coding = unexplored territories | Tim Rodenbröker](https://www.youtube.com/watch?v=JW7oAbLVNJE)
+* [Tim Holman Generative Art Speedrun](https://www.youtube.com/watch?v=4Se0_w0ISYk)
   
 ## Who to Follow
 
@@ -52,3 +60,6 @@ title: Resources
 
 * [Art of the Title: The Queen's Gambit](https://www.artofthetitle.com/title/the-queens-gambit/)
 * [Noise Planets](https://avinayak.github.io/art/2021/01/09/noise-planets.html)
+* [Onformative](https://onformative.com/)
+* [Open Processing](https://openprocessing.org/)
+* [P5.js 2020 Showcase](https://showcase.p5js.org/#/)
