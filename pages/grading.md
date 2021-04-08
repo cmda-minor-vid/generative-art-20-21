@@ -36,6 +36,8 @@ _Make sure you hand-in your work in the assignments slot on Brightspace._
 
 ## Rubric
 
+[**Download `.pdf` version of the Rubric**](https://github.com/cmda-minor-vid/generative-art-20-21/tree/main/slides/ga-2021-assessment-rubric.pdf)
+
 <table>
   <thead>
     <tr>
