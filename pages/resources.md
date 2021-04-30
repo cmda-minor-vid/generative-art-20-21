@@ -34,6 +34,7 @@ title: Resources
 * [Learning Processing by Daniel Shiffman](https://www.youtube.com/c/TheCodingTrain/playlists?view=50&sort=dd&shelf_id=10)
 * [The Nature of Code by Daniel Shiffman](https://www.youtube.com/c/TheCodingTrain/playlists?view=50&sort=dd&shelf_id=9)
 * [CodeCademy Learn P5.js](https://www.codecademy.com/learn/learn-p5js)
+* [A Beginner's Guide to Machine Learning with ml5.js](https://www.youtube.com/watch?v=jmznx0Q1fP0&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y)
 
 ## Talks
 
@@ -63,3 +64,5 @@ title: Resources
 * [Onformative](https://onformative.com/)
 * [Open Processing](https://openprocessing.org/)
 * [P5.js 2020 Showcase](https://showcase.p5js.org/#/)
+* [Notion Creative Coding Algorithms](https://www.notion.so/Creative-Code-algorithms-techniques-c5550ef2f7574126bdc77b09ed76651b)
+* [Chromatic Motion Blur](https://ippsketch.com/posts/chromatic-motion-blur/)
